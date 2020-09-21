@@ -1,3 +1,2 @@
 This is a file edited by Local
 
-I am adding one line in the master branch
